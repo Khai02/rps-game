@@ -21,7 +21,7 @@ function playRound(humanChoice, computerChoice) {
   } else if (humanChoice === 'rock' && computerChoice === 'scissors') {
     console.log("You win! Your rock shattered their scissors!")
   } else if (humanChoice === 'paper' && computerChoice === 'rock') {
-    console.log("You win! Your paper covered their rock")
+    console.log("You win! Your paper covered their rock!")
   } else if (humanChoice === 'paper' && computerChoice === 'paper') {
     console.log("You both drew paper, it's a tie!")
   } else if (humanChoice === 'paper' && computerChoice === 'scissors') {
