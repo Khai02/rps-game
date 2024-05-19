@@ -1,4 +1,4 @@
-alert("Due to my current knowledge of JS and problem solving, in order to play this version of RPS you will choose a hand for each of the five rounds and then the results will be displayed in the console. \n \n Press Ctrl+Shift+J to view the console or press F12 and click on console after you have made your choices.")
+alert("Due to my current knowledge of JS and problem solving, in order to play this version of RPS you will choose a hand for each of the five rounds and then the results will be displayed in the console. \n \nPress Ctrl+Shift+J to view the console or press F12 and click on console after you have made your choices.")
 
 function getComputerChoice() {
   const computerChoice = ['rock', 'paper', 'scissors'];
